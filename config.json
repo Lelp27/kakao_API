@@ -1,0 +1,7 @@
+# Dummy File
+{
+    "REST_KEY": "{REST_KEY}",
+    "ADMIN_KEY": "{ADMIN_KEY}", # For app push
+    "access_token": "{ACCESS_TOKEN}",
+    "refresh_token": "{REFRESH_TOKEN}"
+}
